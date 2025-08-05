@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Prem",
+      "age": 24
+    },
+    {
+      "id": "2",
+      "name": "pavan",
+      "age": "25"
+    },
+    {
+      "id": "3",
+      "name": "Parasad",
+      "age": "32"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "title": "Hello World",
+      "content": "This is the first post."
+    },
+    {
+      "id": "2",
+      "title": "Second Post",
+      "content": "More content here."
+    }
+  ]
+}
